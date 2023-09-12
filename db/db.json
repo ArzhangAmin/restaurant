@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "name": "Alex",
+      "email": "alex@test.com",
+      "password": "abc@123",
+      "id": "1"
+    },
+    {
+      "name": "Dirk",
+      "email": "dirk@test.com",
+      "password": "abc@123",
+      "id": "2"
+    },
+    {
+      "name": "Alon",
+      "email": "alon@test.com",
+      "password": "abc@123",
+      "id": "3"
+    },
+    {
+      "name": "Marc",
+      "email": "marc@test.com",
+      "password": "abc@123",
+      "id": "4"
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Burger King",
+      "address": "Hamburegerstr 43",
+      "contact": "11111",
+      "id": 1
+    },
+    {
+      "name": "Dominos",
+      "address": "Hallerstr 23",
+      "contact": "22222",
+      "id": 2
+    },
+    {
+      "name": "Starbucks",
+      "address": "Sirichstr 76",
+      "contact": "33333",
+      "id": 3
+    },
+    {
+      "name": "Mc Donalds",
+      "address": "Damtorstr 16",
+      "contact": "44444",
+      "id": 4
+    }
+  ]
+}
