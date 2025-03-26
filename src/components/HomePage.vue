@@ -50,7 +50,7 @@ export default {
                 this.$router.push({ name: 'SignUp' })
             }
 
-            let result = await axios.get("http://localhost:3000/restaurants");
+            let result = await axios.get("YOUR LOCALHOST ADDRESS/restaurants");
             this.restaurant = result.data;
 
         }
