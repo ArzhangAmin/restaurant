@@ -26,7 +26,7 @@ export default {
     },
     methods: {
         async UpdateRestaurant() {
-            const result = await axios.put("http://localhost:3000/restaurants/" + this.$route.params.id,{
+            const result = await axios.put("YOUR LOCALHOST ADDRESS/restaurants/" + this.$route.params.id,{
                 name: this.restaurant.name,
                 address: this.restaurant.address,
                 contact: this.restaurant.contact,
